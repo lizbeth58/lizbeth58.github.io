@@ -1,0 +1,146 @@
+.navbar .navbar-nav .nav-link:not(.btn) i.fa{
+  font-size: 18px;
+  position: relative;
+  top: 3px;
+  text-align: center;
+  width: 21px;
+}
+
+.navbar .navbar-expand-lg .fixed-top .navbar-transparent{
+	background-color: 33da00;
+}
+
+.navbar-brand {
+	font-family: 'Pacifico', cursive;
+}
+
+.page-header-image {
+	background-image: url('./assets/kids.jpg');
+}
+
+.clear-filter {
+	background: linear-gradient(0deg,rgba(150, 200, 1, 0.2),rgba(40, 255, 25, 0.6));
+}
+
+.carousel-indicators .active {
+	background-color: #33da00;
+}
+
+.brand .n-logo{
+	/*max-width: 250px;*/
+	max-width: 18em;
+}
+
+.brand .h1-seo {
+	/*margin-right: 50px;*/
+	font-family: 'Pacifico', cursive;
+	font-weight: 450;
+	font-size: 4em;
+}
+
+.icon-background {
+	width: 150px;
+	height: 150px;
+	border-radius: 100px;
+	background-color: #33da00;
+	margin-left: 55px;
+	margin-top: 10px;
+	box-sizing: border-box;
+}
+
+.fa-tractor {
+	box-sizing: border-box;
+	font-size: 90px;
+	margin-left: 22px;
+	margin-top: 25px;
+}
+
+.fa-user-md {
+	box-sizing: border-box;
+	font-size: 90px;
+	margin-left: 35px;
+	margin-top: 25px;
+}
+
+.fa-parachute-box{
+	box-sizing: border-box;
+	font-size: 90px;
+	margin-left: 30px;
+	margin-top: 25px;
+}
+
+.fa-baby{
+	box-sizing: border-box;
+	font-size: 90px;
+	margin-left: 40px;
+	margin-top: 25px;
+}
+
+.card-hover:hover {
+	transform: scale(1.2);
+	transition: 1s;
+}
+
+/*.section-2 {
+	height: 40em;
+	width: 93em;
+}*/
+
+.background {
+	background-image: url('./food.jpg');
+	background-size: cover;
+}
+
+.copyright{
+	margin-top: 11em; 
+}
+
+.card-img-overlay {
+	margin-top: 12.2em;
+	background-color: rgba(0,0,0,0.65);
+}
+
+@media screen and (min-width: 768px) {
+	#dr{
+		margin-top: 24.7em;
+		background-color: rgba(0,0,0,0.65);
+	}
+}
+
+@media screen and (min-width: 992px){
+	#dr {
+		margin-top: 26.2em;
+		background-color: rgba(0,0,0,0.65);
+	}
+}
+
+
+.middle {
+	font-family: "Montserrat","Helvetica","Serif";
+	font-weight: 700;
+	color: ivory;
+}
+
+.profile-pic {
+	width: 100px;
+	height: 100px;
+	box-sizing: border-box;
+	border-radius: 50%;
+	box-shadow: 0px 5px 25px 0px rgba(0,0,0,.6);
+}
+
+.image {
+	height: 16.3em;
+	width: 27em;
+}
+
+.bg-green {
+	background-color: #33da00;
+}
+
+@media screen and (min-width: 414px){
+	.image {
+		height: 16.3em;
+		width: 28em;
+	}
+}
